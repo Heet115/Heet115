@@ -54,14 +54,14 @@ Live: https://fintrack-x-theta.vercel.app
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Heet115&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=Heet115&show_icons=true&theme=github_dark"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heet115&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heet115&layout=compact&theme=github_dark"
     alt="Top Languages"
   />
 </p>
