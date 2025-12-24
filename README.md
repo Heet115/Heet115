@@ -63,10 +63,8 @@ Gyanmanjari Innovative University
 ---
 
 ## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heet115&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heet115&layout=compact&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Heet115&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heet115&layout=compact" />
 
 ---
 
